@@ -2,4 +2,14 @@ cd: change directory
 pwd: print working directory
 ls: list
 clear: clear
+-m: print a message
+colon Q: to quit
 
+git clone [copyed link]
+git status 
+git commit -a
+git log
+git remote
+git remote -v
+git push 
+git push origin
